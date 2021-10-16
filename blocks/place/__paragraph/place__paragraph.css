@@ -16,11 +16,3 @@
   }
 }
 
-@media screen and (max-width: 767px) {
-  .place__paragraph{
-    margin: 25px 16px 0;
-  }
-  .place__paragraph:nth-of-type(1){
-    margin: 0px 16px 0;
-  }
-}

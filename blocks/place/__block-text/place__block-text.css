@@ -1,3 +1,9 @@
 .place__block-text{
   grid-area: paragraph;
 }
+
+@media screen and (max-width: 767px) {
+  .place__block-text{
+    margin: 0 16px;
+  }
+}

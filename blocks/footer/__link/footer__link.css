@@ -1,8 +1,8 @@
 .footer__link{
   color: #fff;
   text-decoration: none;
-  line-height: 1.125em;
-  font-size: 1em;
+  line-height: 1.5rem;
+  font-size: 1.5rem;
 }
 
 .footer__link:hover{

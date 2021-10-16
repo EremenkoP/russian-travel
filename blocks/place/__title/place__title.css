@@ -17,6 +17,6 @@
   .place__title{
     font-size: 2rem;
     line-height: 2.1875rem;
-    margin-left: 16px;
+    margin: 0 16px;
   }
 }
