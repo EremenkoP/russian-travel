@@ -1,15 +1,13 @@
 .header__block-lang{
   margin-top: 18px;
-  height: 28px;
   width: 74px;
   display: flex;
   justify-content: space-between;
 }
 
-@media screen and (max-width: 767px) {
-  .header__lang-link{
+@media  screen and (max-width: 767px) {
+  .header__block-lang{
   margin-top: 14px;
-  height: 20px;
-  width: 62px;
+  width: 60px;
   }
 }
