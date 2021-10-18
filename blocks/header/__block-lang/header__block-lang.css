@@ -1,6 +1,5 @@
 .header__block-lang{
   margin-top: 18px;
-  width: 74px;
   display: flex;
   justify-content: space-between;
 }
@@ -8,6 +7,5 @@
 @media  screen and (max-width: 767px) {
   .header__block-lang{
   margin-top: 14px;
-  width: 60px;
   }
 }

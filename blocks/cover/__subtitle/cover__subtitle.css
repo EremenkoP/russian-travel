@@ -4,7 +4,7 @@
   max-width: 28.125vw;
   min-width: 360px;
   text-align: center;
-  margin-top: 32px;
+  margin: 32px auto 0;
 }
 @media screen and (max-width: 676px) {
   .cover__subtitle{
