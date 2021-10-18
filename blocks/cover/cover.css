@@ -5,13 +5,15 @@
   background-size: contain;
   background-repeat: no-repeat;
   min-height: 57.05vw;
+  max-height: 740px;
   height: 1px;
 }
 
 @media screen and (max-width: 1279px) {
   .cover{
     max-width: 100vw;
-    min-height: 62.5vw;
+    min-height: 61.5vw;
+    max-height: 640px;
   }
 }
 
