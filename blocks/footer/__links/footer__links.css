@@ -7,8 +7,9 @@
   padding: 0;
 }
 
-@media screen and (max-width: 676px) {
+@media screen and (max-width: 767px) {
   .footer__links{
+    width: auto;
     flex-direction: column;
     flex-basis: 248px;
     min-height: 248px;

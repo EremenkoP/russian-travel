@@ -26,15 +26,16 @@
 
 @media screen and (max-width: 767px) {
   .place{
-    grid-template-columns: minmax(320px, min-content);
+    grid-template-columns: minmax(320px, 1fr);
     grid-template-rows: minmax(35px, min-content)  minmax(46px, min-content)  minmax(320px, min-content) min-content;
     column-gap: 0px;
-    margin-top: 50px;
+    margin: 50px auto 0;
     row-gap: 32px;
     grid-template-areas:
     "title"
     "website"
     "image"
     "paragraph";
+
   }
 }
